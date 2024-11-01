@@ -39,10 +39,15 @@ console.log(response);
 
 Para ejecutar el ejemplo de uso de la librería, sigue estos pasos:
 
-1. Navega a la carpeta `example`: `bash
-cd example   `
+1. Navega a la carpeta `example`:
 
-2. Ejecuta el archivo de ejemplo: `bash
-node example.js   `
+```bash
+cd example
+```
+
+2. Ejecuta el archivo de ejemplo:
+```bash
+node example.js
+```
 
 Esto mostrará un ejemplo de cómo utilizar la librería en un entorno de Node.js.
