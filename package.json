@@ -1,0 +1,12 @@
+{
+  "name": "@hubeet/client",
+  "version": "0.0.1",
+  "description": "A client library to access the Hubeet API",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'No build necessary'",
+    "publish": "npm publish --access public"
+  },
+  "author": "Hubeet LLC",
+  "license": "MIT"
+}
