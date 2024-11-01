@@ -1,4 +1,4 @@
-# hubeet-sdk
+# @hubeet/client
 
 A library to access Hubeet API using bot ID and API key.
 
