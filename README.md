@@ -5,13 +5,13 @@ A library to access Hubeet API using bot ID and API key.
 ## Installation
 
 ```bash
-npm install hubeet-sdk
+npm install @hubeet/client
 ```
 
 or
 
 ```bash
-yarn add hubeet-sdk
+yarn add @hubeet/client
 ```
 
 ## Usage
